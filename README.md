@@ -20,3 +20,4 @@ Het model bewerkstelligt:
 
 ....
 
+NOTE: Naar aanleiding van de presentatie van het Gemeentelijk Gegevensmodel zag ik meteen de meerwaarde hiervan en was mijn enthouasisme gewekt. Voor vragen en opmerkingen, neem s.v.p. contact op met Albert Plomp, info@albertplompict.nl
